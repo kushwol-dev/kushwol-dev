@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paul Margueritte !</h1>
+<h1 align="center">Hi 👋, I'm Kushie !</h1>
 <h3 align="center">A passionate full-stack developer from France</h3>
 
 
