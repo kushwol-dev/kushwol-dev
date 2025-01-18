@@ -2,12 +2,9 @@
 <h3 align="center">A passionate full-stack developer from France</h3>
 
 
-- 🔭 I’m currently working on **Creating a web card game**
+- 🔭 I’m currently working on **Learning Godot**
 
 - 🤝 You can find my last project **Write me tips or suggestion**
-
-- ⚡ Quote fun <p><img align="center" src="https://camo.githubusercontent.com/d15f203ee03aec770c4cd57a57929ece543e1d18e55bc8d7ab886b3ba3874fe1/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f6170693f6267436f6c6f723d2532333231323532392674657874436f6c6f723d2532336666646464322671436f6c6f723d2532336639343134342661436f6c6f723d25323339306265366426626f72646572436f6c6f723d25323366396337346626636f6465436f6c6f723d253233663963373466" /></p>
-
 
 - 📫 How to reach me **paul.margueritte@icloud.com**
 
