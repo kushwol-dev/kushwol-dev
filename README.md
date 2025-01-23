@@ -20,16 +20,9 @@
 <h3 align="left">Recent Github Activities:</h3>
 
 <details>
-  <summary>🖥️ Most commited language </summary>
-  <br>
-    <p><img align="left"> <a src="https://github-readme-stats.vercel.app/api/top-langs?username=kushiemoon-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="kushiemoon-dev" />
-  </a> </p>
-  </details>
-
-<details>
   <summary>🖥️ Most commited language</summary>
   <br>
-      <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushiemoon-dev&theme=discord&column=4&margin-w=15&margin-h=15&no-bg=true" alt="paulmargueritte" /></a> </p>
+      <p><img align="left"> <a src="https://github-readme-stats.vercel.app/api/top-langs?username=kushiemoon-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="kushiemoon-dev" /></a> </p>
 </details>
 
 <details>
