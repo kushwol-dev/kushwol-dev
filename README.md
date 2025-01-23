@@ -20,14 +20,11 @@
 <h3 align="left">Recent Github Activities:</h3>
 
 <details>
-  <summary> Most commited language
+  <summary>🖥️ Most commited language </summary>
   <br>
     <p><img align="left"> <a src="https://github-readme-stats.vercel.app/api/top-langs?username=kushiemoon-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="kushiemoon-dev" /></p>
   </a> </p>
   </details>
-  </summary>
-
-</details>
 
 <details>
   <summary>🏆 Github Trophies</summary>
