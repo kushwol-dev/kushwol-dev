@@ -21,9 +21,8 @@
 
 <details>
   <summary>🖥️ Most commited language</summary>
-  <br>
-      <p><img align="left"> <a src="https://github-readme-stats.vercel.app/api/top-langs?username=kushiemoon-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="kushiemoon-dev" />
-    </a> </p>
+  <p><img align="left"> <a src="https://github-readme-stats.vercel.app/api/top-langs?username=kushiemoon-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="kushiemoon-dev" /></p>
+
 </details>
 
 <details>
